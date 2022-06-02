@@ -17,8 +17,7 @@ export class FirstComponent implements OnInit {
       piso: {
         color: 'verde',
         material: 'madera',
-      },
-      techo: 'mimbre'
+      }
     };
   }
 }
