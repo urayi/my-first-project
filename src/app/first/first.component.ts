@@ -18,7 +18,7 @@ export class FirstComponent implements OnInit {
         color: 'verde',
         material: 'madera',
       },
-
+      techo: 'mimbre'
     };
   }
 }
